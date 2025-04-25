@@ -1,0 +1,313 @@
+[
+    {
+        "id": "botanas-1",
+        "titulo": "Bolsa de MiniTakis Fuego-25 piezas de 35 g c/u",
+        "imagen": "./img/botanas/b1.jpg",
+        "categoria": {
+            "nombre": "Botanas",
+            "id": "botanas"
+        },
+        "precio": 149.50
+    },
+    {
+        "id": "botanas-2",
+        "titulo": "Bolsa de Top-Tops Salsa Negra-10 piezas con 52 g c/u",
+        "imagen": "./img/botanas/b2.png",
+        "categoria": {
+            "nombre": "Botanas",
+            "id": "botanas"
+        },
+        "precio": 62.90
+    },
+    {
+        "id": "botanas-3",
+        "titulo": "Bolsa de Doritos Nacho-10 piezas con 58 g c/u",
+        "imagen": "./img/botanas/b3.png",
+        "categoria": {
+            "nombre": "Botanas",
+            "id": "botanas"
+        },
+        "precio": 78.90
+    },
+    {
+        "id": "cacahuates-1",
+        "titulo": "Bolsa 1 kg Cacahuate SOL estilo Japones",
+        "imagen": "./img/cacahuate/ca1.png",
+        "categoria": {
+            "nombre": "Cacahuate",
+            "id": "cacahuates"
+        },
+        "precio": 70.25
+    },
+    {
+        "id": "cacahuates-2",
+        "titulo": "Bolsa de 1 kg Cacahuate SOL estilo Español",
+        "imagen": "./img/cacahuate/ca2.png",
+        "categoria": {
+            "nombre": "Cacahuate Japones",
+            "id": "cacahuates"
+     
+        },
+        "precio": 70.25
+    },
+    {
+        "id": "cacahuates-3",
+        "titulo": "Caja de Mazapan con 12 piezas de 28gr c/u",
+        "imagen": "./img/cacahuate/ca3.png",
+        "categoria": {
+            "nombre": "Mazapan",
+            "id": "cacahuates"
+        },
+        "precio": 65.75
+    },
+    {
+        "id": "cacahuates-4",
+        "titulo": "Caja de Mazapan de Chocolate - 12 piezas de 28 gr c/u",
+        "imagen": "./img/cacahuate/ca4.png",
+        "categoria": {
+            "nombre": "Mazapan Chocolate",
+            "id": "cacahuates"
+        },
+        "precio": 70.50
+    },
+    {
+        "id": "chicles-1",
+        "titulo": "Chicles Orbit sabor menta suave - 40 piezas de 2.8 gr c/u",
+        "imagen": "./img/chicles/c1_1.png",
+        "categoria": {
+            "nombre": "Chicles",
+            "id": "chicles"
+        },
+        "precio": 68.99
+    },
+    {
+        "id": "chicles-2",
+        "titulo": "Orbit sabor hierbabuena - 40 pzs de 5.6 gr c/u",
+        "imagen": "./img/chicles/c2_1.png",
+        "categoria": {
+            "nombre": "Chicles Orbit",
+            "id": "chicles"
+        },
+        "precio": 68.99
+    },
+    {
+        "id": "chicles-3",
+        "titulo": "Trident sabor menta - 40 pzs de 5.2 gr c/u",
+        "imagen": "./img/chicles/c3.png",
+        "categoria": {
+            "nombre": "Chicles Trident",
+            "id": "chicles"
+        },
+        "precio": 65.80
+    },
+    {
+        "id": "chicles-4",
+        "titulo": "Trident sabor hierbabuena - 40 pzs de 5.2 gr c/u",
+        "imagen": "./img/chicles/c4.png",
+        "categoria": {
+            "nombre": "Chicles Trident",
+            "id": "chicles"
+        },
+        "precio": 65.80
+    },
+    {
+        "id": "chocolates-1",
+        "titulo": "Caja de Pastelito Kinder Delice - 15 pzs de 39 gr c/u",
+        "imagen": "./img/chocolates/ch1.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": 114.90
+    },
+    {
+        "id": "chocolates-2",
+        "titulo": "Chocolate Ferrero Rocher - 12 piezas de 12.5 gr c/u",
+        "imagen": "./img/chocolates/ch2.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": 102.90
+    },
+    {
+        "id": "chocolates-3",
+        "titulo": "Chocolate Carlos V - 15 pzs de 15 gr c/u",
+        "imagen": "./img/chocolates/ch3.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": 109.90
+    },
+    {
+        "id": "chocolates-4",
+        "titulo": "Barquillo Wafer Stick - 80 pzs de 6.2 gr c/u",
+        "imagen": "./img/chocolates/ch4.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": 41.90
+    },
+    {
+        "id": "chocolates-5",
+        "titulo": "Caja de Freskas - 9 pzs de 35 gr c/u",
+        "imagen": "./img/chocolates/ch5.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": 156.20
+    },
+    {
+        "id": "gomitas-1",
+        "titulo": "Bolsa de 1kg - Gomilocas Pinguinos",
+        "imagen": "./img/gomitas/g1.png",
+        "categoria": {
+            "nombre": "Gomitas",
+            "id": "gomitas"
+        },
+        "precio": 105.5
+    },
+    {
+        "id": "gomitas-2",
+        "titulo": "Bolsa de 1 kg Gomilocas de dientes",
+        "imagen": "./img/gomitas/g2.png",
+        "categoria": {
+            "nombre": "Gomitas",
+            "id": "gomitas"
+        },
+        "precio": 95.45
+    },
+    {
+        "id": "gomitas-3",
+        "titulo": "Bolsa de 1kg - Panditas",
+        "imagen": "./img/gomitas/g3.png",
+        "categoria": {
+            "nombre": "Gomitas",
+            "id": "gomitas"
+        },
+        "precio": 105.45
+    },
+    {
+        "id": "gomitas-4",
+        "titulo": "Bolsa Lucky Gummys - 1kg",
+        "imagen": "./img/gomitas/g4.png",
+        "categoria": {
+            "nombre": "Gomitas",
+            "id": "gomitas"
+        },
+        "precio": 95.45
+    },
+    {
+        "id": "paletas-1",
+        "titulo": "Paquete Paletas VeroMix - 20 pzs de 15.6 gr c/u",
+        "imagen": "./img/paletas/p1.png",
+        "categoria": {
+            "nombre": "Paletas",
+            "id": "paletas"
+        },
+        "precio": 38.95
+    },
+    {
+        "id": "paletas-2",
+        "titulo": "Paquete Paletas VeroMix Chile - 20 pzs-15.6 gr c/u",
+        "imagen": "./img/paletas/p2.png",
+        "categoria": {
+            "nombre": "Paletas",
+            "id": "paletas"
+        },
+        "precio": 69.7
+    },
+    {
+        "id": "paletas-3",
+        "titulo": "Bolsa Bubbaloo Xtreme - 20 piezas de 16.6 gr c/u",
+        "imagen": "./img/paletas/p3.png",
+        "categoria": {
+            "nombre": "Paletas",
+            "id": "paletas"
+        },
+        "precio": 69.7
+    },
+    {
+        "id": "gomitas-4",
+        "titulo": "Paquete Tutsi ChupaPop - 50 pzs de 20 gr c/u",
+        "imagen": "./img/paletas/p4.png",
+        "categoria": {
+            "nombre": "Paletas",
+            "id": "paletas"
+        },
+        "precio": 69.7
+    },
+    {
+        "id": "polvitos-1",
+        "titulo": "Caja Lucas muecas sabor Cereza",
+        "imagen": "./img/polvitos/po1.png",
+        "categoria": {
+            "nombre": "Polvitos",
+            "id": "polvitos"
+        },
+        "precio": 70.9
+    },
+    {
+        "id": "polvitos-2",
+        "titulo": "Paquete Lucas muecas sabor Chamoy-10 pzs de 24 gr c/u",
+        "imagen": "./img/polvitos/po2.png",
+        "categoria": {
+            "nombre": "Polvitos",
+            "id": "polvitos"
+        },
+        "precio": 70.9
+    },
+    {
+        "id": "polvitos-3",
+        "titulo": "Paquete Lucas muecas sabor Sandia-10 pzs de 24 gr c/u",
+        "imagen": "./img/polvitos/po3.png",
+        "categoria": {
+            "nombre": "Polvitos",
+            "id": "polvitos"
+        },
+        "precio": 70.9
+    },
+    {
+        "id": "polvitos-4",
+        "titulo": "Paquete Lucas muecas surtido-10 pzs de 24 gr c/u",
+        "imagen": "./img/polvitos/po4.png",
+        "categoria": {
+            "nombre": "Polvitos",
+            "id": "polvitos"
+        },
+        "precio": 70.9
+    },
+    {
+        "id": "tamarindo-1",
+        "titulo": "Bolsa Pelon Pelo Rico - 18 pzs de 13 gr c/u",
+        "imagen": "./img/tamarindo/t1.png",
+        "categoria": {
+            "nombre": "Tamarindo",
+            "id": "tamarindo"
+        },
+        "precio": 61.9
+    },
+    {
+        "id": "tamarindo-2",
+        "titulo": "Bolsa de 18 pzs - Pelon Pelonetes",
+        "imagen": "./img/tamarindo/t2.png",
+        "categoria": {
+            "nombre": "Tamarindo",
+            "id": "tamarindo"
+        },
+        "precio": 41.9
+    },
+    {
+        "id": "tamarindo-3",
+        "titulo": "Caja de Pulparindo - 20 pzs de 14 gr c/u",
+        "imagen": "./img/tamarindo/t3.png",
+        "categoria": {
+            "nombre": "Tamarindo",
+            "id": "tamarindo"
+        },
+        "precio": 40.8
+    }
+]

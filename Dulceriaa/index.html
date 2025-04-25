@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dulce Web</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+
+    
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">Dulce Web</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">Dulce Web</h1>
+            </header>
+            <!-- Barra de búsqueda -->
+            <div class="search-container">
+                <div class="search-box">
+                    <input type="text" id="buscador" placeholder="Buscar productos...">
+                </div>
+            </div>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="botanas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Botanas</button>
+                    </li>
+                    <li>
+                        <button id="cacahuates" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Cacahuates</button>
+                    </li>
+                    <li>
+                        <button id="chicles" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Chicles</button>
+                    </li>
+                    <li>
+                        <button id="chocolates" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Chocolates</button>
+                    </li>
+                    <!--   <li>
+                        <button id="dulcesjuguete" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Dulces con Juguete</button>
+                    </li> -->
+                    <li>
+                        <button id="gomitas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Gomitas</button>
+                    </li>
+                    <li>
+                        <button id="paletas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Paletas</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./carrito.html">
+                            <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                        </a>
+                        <a href="contacto.html" class="boton-menu"><i class="bi bi-person-lines-fill"></i>
+                            <h4>Contactanos</h4>
+                        </a>
+                    </a>
+                    </li>
+                </ul>
+            </nav>
+
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+                
+            </div>
+        </main>
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/menu.js"></script>
+    <script src="./js/search.js"></script>
+</body>
+</html>
