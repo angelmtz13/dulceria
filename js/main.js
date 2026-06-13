@@ -43,7 +43,6 @@ botonesCategorias.forEach(boton => {
         botonesCategorias.forEach(boton => boton.classList.remove("active"));
         e.currentTarget.classList.add("active");
 
-        // Limpiar el input del buscador al cambiar de categoría
         inputBuscador.value = "";
 
         if (e.currentTarget.id != "todos") {
@@ -119,7 +118,6 @@ function actualizarNumerito() {
     numerito.innerText = nuevoNumerito;
 }
 
-// Buscador en tiempo real
 inputBuscador.addEventListener("input", () => {
     const texto = inputBuscador.value.toLowerCase();
     const productosFiltrados = productos.filter(producto =>
